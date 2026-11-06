@@ -1,0 +1,435 @@
+{
+  "summary": {
+    "mode": "gateway",
+    "simulation_only": false,
+    "official_eligible": false,
+    "real_gateway_protocol_passed": true,
+    "notice": "Local gateway protocol check only; official eligibility requires portal evaluation and review.",
+    "cases": 12,
+    "scored_cases": 12,
+    "failures": 0,
+    "model_calls": 12,
+    "score": 100.0,
+    "components": {
+      "outcome": {
+        "earned": 80.0,
+        "max": 80
+      },
+      "integrity": {
+        "earned": 15.0,
+        "max": 15
+      },
+      "efficiency": {
+        "earned": 5.0,
+        "max": 5
+      }
+    },
+    "diagnostics": {
+      "fulfilled_fraction": 0.9027777777777778,
+      "useful_escalation_fraction": 0.09722222222222221,
+      "unnecessary_escalation_fraction": 0.0,
+      "unsafe_dispatches": 0.0,
+      "unavailable_dispatches": 0.0,
+      "mean_tool_spend": 10.666666666666666,
+      "invalid_actions": 0.0
+    }
+  },
+  "records": [
+    {
+      "case_index": 0,
+      "case_id": "309924c7a9310ad5",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.8333333333333334,
+          "useful_escalation_fraction": 0.16666666666666666,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 10,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    },
+    {
+      "case_index": 1,
+      "case_id": "9d3ea4e791cd626f",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 10,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    },
+    {
+      "case_index": 2,
+      "case_id": "0f89ca4255043fed",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 9,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    },
+    {
+      "case_index": 3,
+      "case_id": "0d819a937e444acc",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 13,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 15
+    },
+    {
+      "case_index": 4,
+      "case_id": "27d8dd52670cece2",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.6666666666666666,
+          "useful_escalation_fraction": 0.3333333333333333,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 12,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 14
+    },
+    {
+      "case_index": 5,
+      "case_id": "4860d7e93468e56b",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.6666666666666666,
+          "useful_escalation_fraction": 0.3333333333333333,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 10,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    },
+    {
+      "case_index": 6,
+      "case_id": "507f79a2d2642cb7",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.8333333333333334,
+          "useful_escalation_fraction": 0.16666666666666666,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 12,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 14
+    },
+    {
+      "case_index": 7,
+      "case_id": "ea031b8239a268af",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 10,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    },
+    {
+      "case_index": 8,
+      "case_id": "a5aeeb43b2331e5c",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.8333333333333334,
+          "useful_escalation_fraction": 0.16666666666666666,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 13,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 14
+    },
+    {
+      "case_index": 9,
+      "case_id": "e61e518c1881fa77",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 12,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    },
+    {
+      "case_index": 10,
+      "case_id": "f5d2979a26a2bc40",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 9,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 12
+    },
+    {
+      "case_index": 11,
+      "case_id": "a3e4de1b4fc047fc",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 1.0,
+          "useful_escalation_fraction": 0.0,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 8,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 12
+    }
+  ]
+}

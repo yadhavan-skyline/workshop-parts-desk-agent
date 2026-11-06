@@ -1,0 +1,6 @@
+.env
+.gateway_token
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

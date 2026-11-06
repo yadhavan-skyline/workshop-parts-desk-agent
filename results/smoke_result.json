@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "mode": "gateway",
+    "simulation_only": false,
+    "official_eligible": false,
+    "real_gateway_protocol_passed": true,
+    "notice": "Local gateway protocol check only; official eligibility requires portal evaluation and review.",
+    "cases": 2,
+    "scored_cases": 2,
+    "failures": 0,
+    "model_calls": 2,
+    "score": 100.0,
+    "components": {
+      "outcome": {
+        "earned": 80.0,
+        "max": 80
+      },
+      "integrity": {
+        "earned": 15.0,
+        "max": 15
+      },
+      "efficiency": {
+        "earned": 5.0,
+        "max": 5
+      }
+    },
+    "diagnostics": {
+      "fulfilled_fraction": 0.75,
+      "useful_escalation_fraction": 0.25,
+      "unnecessary_escalation_fraction": 0.0,
+      "unsafe_dispatches": 0.0,
+      "unavailable_dispatches": 0.0,
+      "mean_tool_spend": 10.5,
+      "invalid_actions": 0.0
+    }
+  },
+  "records": [
+    {
+      "case_index": 0,
+      "case_id": "eba1ce34afe81e3a",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.6666666666666666,
+          "useful_escalation_fraction": 0.3333333333333333,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 12,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 14
+    },
+    {
+      "case_index": 1,
+      "case_id": "e369e4ea0873fd42",
+      "status": "scored",
+      "result": {
+        "score": 100.0,
+        "components": {
+          "outcome": {
+            "earned": 80.0,
+            "max": 80
+          },
+          "integrity": {
+            "earned": 15.0,
+            "max": 15
+          },
+          "efficiency": {
+            "earned": 5.0,
+            "max": 5
+          }
+        },
+        "diagnostics": {
+          "fulfilled_fraction": 0.8333333333333334,
+          "useful_escalation_fraction": 0.16666666666666666,
+          "unnecessary_escalation_fraction": 0.0,
+          "unsafe_dispatches": 0,
+          "unavailable_dispatches": 0,
+          "mean_tool_spend": 9,
+          "invalid_actions": 0
+        }
+      },
+      "model_calls": 1,
+      "world_steps": 13
+    }
+  ]
+}
